@@ -1,2 +1,3 @@
 # MortBM-HDR
-This repository will contain the R code and data files necessary to perform the analysis after peer-reviewing and acceptance. This project will be licensed under the terms of the Creative Commons Attribution 4.0 (CC-BY-4.0) license. 
+This file contains the R code and data files to perform the main analyses as published in:
+Liechti FD, van Ettekoven CN, Brouwer MC, Bijlsma MW, van de Beek D. Sex differences in bacterial meningitis and associations with socioeconomic indicators: a systematic review and meta-analysis with metaregression. BMJ Global Helath 2025;0:e016802. doi: 10.1136/bmjgh-2024-016802
